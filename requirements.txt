@@ -1,3 +1,5 @@
+IPython
 streamlit
 pandas
 scikit-learn
+
