@@ -88,7 +88,7 @@ You can import your own data into Colab notebooks from your Google Drive account
 """
 
 import numpy as np
-import IPython.display as display
+
 from matplotlib import pyplot as plt
 import io
 import base64
